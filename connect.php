@@ -1,5 +1,5 @@
 <?php
-	ini_set('display_errors', 'On');
+	ini_set('display_errors', 'Off');
 	define("web_title","My Homework");
 	date_default_timezone_set("Asia/Bangkok");
 	session_start();
